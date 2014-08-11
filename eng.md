@@ -1,6 +1,7 @@
 <time datetime="2014-07-28T00:00:00+00:00">** July 28, 2014</time>
 
 ## 
+#Responsive Web Made Easier with Chrome DevTools Device Mode
 
 Note: I originally wrote this article for [HTML5Experts.jp][1] in Japanese, as
 a part of their Google I/O special editions. This blog post is more of the 
